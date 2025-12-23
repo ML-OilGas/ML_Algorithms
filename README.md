@@ -7,7 +7,24 @@
 
 ---
 
-ساختار مخزن
+ ## Machine Learning Roadmap (Oil & Gas Focus)
+
+| Algorithm | Status | Notes / Examples |
+|-----------|--------|----------------|
+| Linear Regression | ✅ Done | Notebook / PDF link |
+| Logistic Regression | 🔄 In Progress | Classification example |
+| Decision Trees | 🔄 In Progress | Classification / Regression |
+| Random Forest | 🔄 In Progress |  |
+| Gradient Boosting | 🔄 In Progress |  |
+| XGBoost | 🔄 In Progress |  |
+| SVM (Support Vector Machine) | ✅ Done |  |
+| SVR (Support Vector Regression) | 🔄 In Progress |  |
+| Gaussian Processes | 🔄 In Progress | Probabilistic regression |
+| Naive Bayes | ✅ Done |  |
+| Hidden Markov Models (HMM) | 🔄 In Progress | Sequence modeling |
+| Bayesian Networks | 🔄 In Progress | Causal modeling |
+
+*Legend:* ✅ Done, 🔄 In Progress
 
 هر الگوریتم به‌صورت مستقل و با ساختاری یکسان ارائه شده است:
 
@@ -22,19 +39,6 @@
 
 
 
----
-
-الگوریتم‌های موجود
-
-Linear Regression
-
-Simple Linear Regression
-
-Multiple Linear Regression (در حال تکمیل)
-
-
-
-(در ادامه، الگوریتم‌های دیگر مانند Logistic Regression، PCA، Clustering و … اضافه خواهند شد.)
 
 
 ---
