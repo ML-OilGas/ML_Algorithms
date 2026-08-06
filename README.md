@@ -12,7 +12,7 @@
 | Algorithm | Status | Notes / Examples |
 |-----------|--------|----------------|
 | Linear Regression | ✅ Done | Notebook / PDF link |
-| Logistic Regression | 🔄 In Progress | Classification example |
+| Logistic Regression | ✅ Done | Classification example |
 | Decision Trees | 🔄 In Progress | Classification / Regression |
 | Random Forest | 🔄 In Progress |  |
 | Gradient Boosting | 🔄 In Progress |  |
@@ -20,7 +20,7 @@
 | SVM (Support Vector Machine) | ✅ Done |  |
 | SVR (Support Vector Regression) | 🔄 In Progress |  |
 | Gaussian Processes | 🔄 In Progress | Probabilistic regression |
-| Naive Bayes | ✅ Done |  |
+| Naive Bayes | 🔄 In Progress |  |
 | Hidden Markov Models (HMM) | 🔄 In Progress | Sequence modeling |
 | Bayesian Networks | 🔄 In Progress | Causal modeling |
 
