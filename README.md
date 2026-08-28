@@ -18,7 +18,7 @@
 | Gradient Boosting | 🔄 In Progress |  |
 | XGBoost | 🔄 In Progress |  |
 | SVM (Support Vector Machine) | ✅ Done |  |
-| SVR (Support Vector Regression) | 🔄 In Progress |  |
+| SVR (Support Vector Regression) | ✅ Done |  |
 | Gaussian Processes | 🔄 In Progress | Probabilistic regression |
 | Naive Bayes | 🔄 In Progress |  |
 | Hidden Markov Models (HMM) | 🔄 In Progress | Sequence modeling |
